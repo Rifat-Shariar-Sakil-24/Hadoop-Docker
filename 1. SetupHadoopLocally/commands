@@ -1,0 +1,12 @@
+
+hdfs namenode -format
+cd / 
+cd hadoop
+cd sbin
+start-dfs.cmd
+start-yarn.cmd
+jps
+
+links:
+http://localhost:9870/dfshealth.html
+http://localhost:9864/datanode.html
