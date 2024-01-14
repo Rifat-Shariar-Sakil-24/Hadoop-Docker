@@ -7,6 +7,9 @@ solution: 1
 Progra~1 = 'Program Files'
 Progra~2 = 'Program Files(x86)'
 
+// example 
+C:\Progra~1\Java\jdk-17.0.1
+
 solution 2: using as string
 
 solution 3: install jdk in C drive and change the system variables
