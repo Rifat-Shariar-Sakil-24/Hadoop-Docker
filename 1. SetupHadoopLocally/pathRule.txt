@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/7438160/java-home-variable
+
+set JAVA_HOME problems
+
+
+solution: 1
+Progra~1 = 'Program Files'
+Progra~2 = 'Program Files(x86)'
+
+solution 2: using as string
+
+solution 3: install jdk in C drive and change the system variables
