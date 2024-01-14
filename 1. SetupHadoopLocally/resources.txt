@@ -1,5 +1,4 @@
 
 java download: https://www.oracle.com/java/technologies/downloads/
 
-fixed bin link:
-https://drive.google.com/file/d/1K3TPogc5euWorC21-RbLQBBHbmnKwwaA/view?usp=sharing
+fixed bin link:  https://drive.google.com/file/d/1K3TPogc5euWorC21-RbLQBBHbmnKwwaA/view?usp=sharing
