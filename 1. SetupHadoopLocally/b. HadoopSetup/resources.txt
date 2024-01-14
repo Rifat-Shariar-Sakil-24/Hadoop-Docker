@@ -1,5 +1,4 @@
 
-java download: https://www.oracle.com/java/technologies/downloads/
 
 apache hadoop: https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz
 
