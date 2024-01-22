@@ -4,6 +4,7 @@ cd /
 cd hadoop
 cd sbin
 start-dfs.cmd
+jps
 start-yarn.cmd
 jps
 
